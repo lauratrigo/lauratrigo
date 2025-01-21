@@ -9,7 +9,7 @@
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lauratrigo&layout=compact&bg_color=2e3338&text_color=ffffff&icon_color=ffffff&title_color=ffffff)
 
-### Linguagens Principais e Ferramentas
+## Linguagens Principais e Ferramentas
 
 <div style = "display: inline_block"><br/>
     <img align = "center" alt = "C" src = "https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white"/>
@@ -25,6 +25,7 @@ Estudante de Engenharia da Computação, apaixonada por tecnologia e inovação,
 
 ## Contatos
 
-- [Gmail](mailto:lauratrigo47@gmail.com)
-- [Telegram](https://t.me/@the_wasp)
+- Gmail: [lauratrigo47@gmail.com](mailto:lauratrigo47@gmail.com)
+- Telegram: <a href="https://t.me/the_wasp" style="color: blue; text-decoration: underline;">the_wasp</a>
+
 
