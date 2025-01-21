@@ -26,6 +26,13 @@ Sou estudante de Engenharia da Computação, apaixonada por tecnologia e inovaç
 
 ## Contatos
 
-- [Gmail](mailto:lauratrigo47@gmail.com)
+- [Gmail](mailto:lauratrigo47@gmail.com)  
 - [Telegram](https://t.me/@the_wasp)
+
+<div align="center">
+    <img src="https://github.com/user-attachments/assets/5ae72190-5067-42e1-9378-d2a292bfeb8a" alt="girl-coding" width="325" />
+</div>
+
+
+
 
