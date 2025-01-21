@@ -22,7 +22,7 @@
     <img align = "center" alt = "JavaScript" src = "https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>    
 </div><br/>
 
-Sou estudante de Engenharia da Computação, apaixonada por tecnologia e inovação, sempre em busca de novos desafios e expandindo meus conhecimentos para criar soluções impactantes.
+Estudante de Engenharia da Computação, apaixonada por tecnologia e inovação, sempre em busca de novos desafios e expandindo meus conhecimentos para criar soluções impactantes.
 
 ## Contatos
 
