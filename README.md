@@ -4,7 +4,7 @@
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/laura-trigo-29364a2a7/)
 
-<div>
+<div align="center">
     <a href="https://github.com/lauratrigo">
     <img height="180em" src="https://github-readme-stats.vercel.app/api?username=lauratrigo&show_icons=true&theme=onedark">
     <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lauratrigo&layout=compact&bg_color=2e3338&text_color=ffffff&icon_color=ffffff&title_color=ffffff">
