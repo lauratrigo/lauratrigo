@@ -11,7 +11,6 @@ Estudante de Engenharia da Computação e aluna de Iniciação Científica (IC).
 - Ionosfera e seu comportamento
 - Tempestades geomagnéticas  
 - Clima espacial (Space Weather)  
-- Interação Sol–Terra
 - Processamento de sinais
 - Desenvolvimento de projetos acadêmicos e experimentais  
 - Experimentação em diferentes linguagens de programação  
