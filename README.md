@@ -31,6 +31,7 @@ Estudante de Engenharia da Computação e aluna de Iniciação Científica (IC).
   <img align="center" alt="CSS3" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
 </div>
 
+<!-- 
 ---
 
 ### 📊 GitHub Stats
@@ -39,7 +40,7 @@ Estudante de Engenharia da Computação e aluna de Iniciação Científica (IC).
   <img height="170em" src="https://github-readme-stats.vercel.app/api?username=lauratrigo&show_icons=true&theme=onedark&hide_border=true"/>
   <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lauratrigo&layout=compact&theme=onedark&hide_border=true"/>
 </div>
-
+-->
 ---
 
 ### 📫 Contato
